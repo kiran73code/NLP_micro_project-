@@ -1,6 +1,6 @@
-Repository containg  NLP(Natural Language Process) microprojects
+Repository containg  NLP(Natural Language Processing) microprojects
 complited by me for academic, selflearning,and hobby purposes.
-Prented in the form of iPython Notebooks and spyder IDE .py files
+Presented in the form of iPython Notebooks and spyder IDE .py files
 
 # Contents
 1. [NLP basics concepts]{https://github.com/kiran73code/NLP_micro_project-/tree/master/Basic%20NLP%20Concepts}
