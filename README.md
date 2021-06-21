@@ -17,6 +17,7 @@ Presented in the form of iPython Notebooks and spyder IDE .py files
  
   This folder contains SMS Spam Detect Classifier Model based on 
    >1.Simple Logistic Regression
+   
    >2.Naive Bayes Classifier
   this model predict wheather the SMS is spam or ham 
   it give **98.47%** Accuracy . 
