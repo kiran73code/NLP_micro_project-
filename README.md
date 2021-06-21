@@ -14,6 +14,7 @@ Presented in the form of iPython Notebooks and spyder IDE .py files
 - Word2Vec
   
  2. [SMS SpamClassifier Model](https://github.com/kiran73code/NLP_micro_projects-/tree/master/SpamClassifier) 
+ 
   This folder contains SMS Spam Detect Classifier Model based on 
    >1.Simple Logistic Regression
    >2.Naive Bayes Classifier
