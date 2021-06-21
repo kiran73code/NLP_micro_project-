@@ -12,5 +12,6 @@ Presented in the form of iPython Notebooks and spyder IDE .py files
 - TF-IDF
 - BagOfWords
 - Word2Vec
-
+  
+  
 
